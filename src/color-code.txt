@@ -1,0 +1,27 @@
+Here's a smart breakdown of how to use the **Black + Gold + Ivory** palette across key components of a finance website to create a luxurious, trustworthy, and user-friendly experience:
+
+---
+
+### 🎨 Color Usage Guide
+
+| Component              | Recommended Color | Purpose & Effect |
+|------------------------|-------------------|------------------|
+| **Header / Navbar**    | Black `#000000`   | Creates a bold, elegant frame; pairs well with gold accents |
+| **Logo / Highlights**  | Gold `#FFD700`    | Draws attention to brand elements, icons, and key actions |
+| **Background**         | Ivory `#FFFFF0`   | Soft, clean canvas for readability and warmth |
+| **Primary Buttons**    | Gold `#FFD700`    | Encourages clicks; stands out against black or ivory |
+| **Secondary Buttons**  | Black `#000000`   | Subtle alternative for less prominent actions |
+| **Text (Body)**        | Black `#000000`   | High contrast on ivory for easy reading |
+| **Text (Headings)**    | Gold `#FFD700` or Black | Adds hierarchy and visual interest |
+| **Cards / Panels**     | Ivory with Black border | Keeps layout clean and structured |
+| **Footer**             | Black with Gold text | Elegant closing section; reinforces brand tone |
+| **Hover Effects**      | Gold or subtle shadow | Adds interactivity and polish |
+
+---
+
+### 🧠 Pro Tips
+- Use **Ivory** generously for whitespace and background to avoid overwhelming users.
+- Reserve **Gold** for CTAs, icons, and accents — too much can feel flashy.
+- Keep **Black** dominant in structural elements like headers, footers, and borders.
+
+Would you like help applying this to a wireframe or mockup layout?

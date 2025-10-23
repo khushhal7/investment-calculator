@@ -1,0 +1,9 @@
+.header-image{
+    width: 240px;
+    height: 185px;
+}
+body{
+    padding: 25px;
+    background-color: black;
+    color: #FFD700;
+}
